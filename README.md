@@ -6,8 +6,8 @@ const fabs = {
     askMeAbout: ["web dev", "tech", "ai"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
-            css: ["bootstrap"]
+            js: ["React"],
+            css: ["Bootstrap"]
         },
         backEnd: ["PHP", "Python"],
         databases: ["MySql"],
