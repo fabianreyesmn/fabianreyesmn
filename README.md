@@ -6,7 +6,7 @@ const fabs = {
     askMeAbout: ["web dev", "tech", "ai"],
     technologies: {
         frontEnd: {
-            js: ["React"],
+            js: ["..."],
             css: ["Bootstrap"]
         },
         backEnd: ["PHP", "Python"],
