@@ -48,13 +48,13 @@
 - 📧 fabianreyesmn@gmail.com
 - 🌐 Portafolio (en construcción)  
 
+---
 
 <a href="https://github.com/fabianreyesmn">
   <img src="https://img.shields.io/github/followers/fabianreyesmn">
 </a>
 <a href="https://github.com/fabianreyesmn">
    <img src="https://komarev.com/ghpvc/?username=fabianreyesmn">
-
----
+</a>
 
 ⭐️ From [@fabianreyesmn](https://github.com/fabianreyesmn)
