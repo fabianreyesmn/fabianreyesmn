@@ -19,8 +19,8 @@
   App Android interactiva con geografía, biomas, banderas y brújula.  
   Interactive Android app teaching geography and biomes to children.
 
-- 🐾 [Amor Incondicional](https://github.com/fabianreyesmn/amor-inc-back)
-  Plataforma web para agendar citas veterinarias, con backend en Node.js y base de datos en Firebase.
+- 🐾 [Amor Incondicional](https://github.com/fabianreyesmn/amor-inc-back)  
+  Plataforma web para agendar citas veterinarias, con backend en Node.js y base de datos en Firebase.  
   Web platform for scheduling veterinary appointments, featuring a Node.js backend and Firebase database.
 
 ---
