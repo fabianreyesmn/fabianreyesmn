@@ -15,7 +15,7 @@
   Red social culinaria con backend en Node.js y cliente móvil/web.  
   Culinary social network with Node.js backend and Android/web client.
 
-- 🌍 [App Educativa para Niños](https://github.com/fabianreyesmn/app-educativa-ninos-android)  
+- 🌍 [Earthly](https://github.com/fabianreyesmn/app-educativa-ninos-android)  
   App Android interactiva con geografía, biomas, banderas y brújula.  
   Interactive Android app teaching geography and biomes to children.
 
