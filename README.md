@@ -7,17 +7,21 @@
 
 ### 🚀 Proyectos destacados | Featured Projects
 
-- 🧠 [Compilador con IDE](https://github.com/fabianreyes/compilador-ide)  
+- 🧠 [Compilador con IDE](https://github.com/fabianreyesmn/compilador-ide)  
   IDE gráfico con visualización de AST, análisis léxico y sintáctico en Python (Tkinter).  
   Graphical compiler IDE with lexical & syntactic analysis (Tkinter-based).
 
-- 🍲 [Cook and Rate](https://github.com/fabianreyes/cooknrate-back)  
+- 🍲 [Cook and Rate](https://github.com/fabianreyesmn/cooknrate-back)  
   Red social culinaria con backend en Node.js y cliente móvil/web.  
   Culinary social network with Node.js backend and Android/web client.
 
-- 🌍 [App Educativa para Niños](https://github.com/fabianreyes/app-educativa-ninos-android)  
-  App Android interactiva con geografía, biomas, banderas y puntos cardinales.  
+- 🌍 [App Educativa para Niños](https://github.com/fabianreyesmn/app-educativa-ninos-android)  
+  App Android interactiva con geografía, biomas, banderas y brújula.  
   Interactive Android app teaching geography and biomes to children.
+
+- 🐾 [Amor Incondicional](https://github.com/fabianreyesmn/amor-inc-back)
+  Plataforma web para agendar citas veterinarias, con backend en Node.js y base de datos en Firebase.
+  Web platform for scheduling veterinary appointments, featuring a Node.js backend and Firebase database.
 
 ---
 
@@ -25,9 +29,9 @@
 
 - Android (Java, Kotlin)  
 - Node.js, Express  
-- Python (Tkinter, scripts educativos)  
+- Python (Tkinter, scripts)  
 - Docker, Linux (Debian/Arch/Hyprland)  
-- MySQL, SQLite, HBase  
+- MySQL, SQLite, HBase, Firebase  
 - HTML, CSS, JavaScript  
 - Git / GitHub
 
