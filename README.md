@@ -44,7 +44,7 @@
 
 ### 📫 Contacto | Contact
 
-- 💼 [LinkedIn](www.linkedin.com/in/fabianreyesmn)
+- 💼 <a href="www.linkedin.com/in/fabianreyesmn" target="_blank">LinkedIn</a>
 - 📧 fabianreyesmn@gmail.com
 - 🌐 Portafolio (en construcción)  
 
