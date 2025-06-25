@@ -7,7 +7,7 @@
 
 ### 🚀 Proyectos destacados | Featured Projects
 
-- 🧠 [Compilador con IDE](https://github.com/fabianreyesmn/compilador-ide)  
+- 🧠 [PyGFrame - Compilador con IDE](https://github.com/fabianreyesmn/compilador-ide)  
   IDE gráfico con visualización de AST, análisis léxico y sintáctico en Python (Tkinter).  
   Graphical compiler IDE with lexical & syntactic analysis (Tkinter-based).
 
