@@ -50,7 +50,7 @@
 
 - 💼 [linkedin.com/in/fabianreyesmn](https://www.linkedin.com/in/fabianreyesmn/)
 - 📧 fabianreyesmn@gmail.com
-- 🌐 Portafolio (en construcción)  
+- 🌐 [en construcción](https://685e19ddb502150008d43c87--lucent-jelly-1ed7a9.netlify.app/)  
 
 ---
 
