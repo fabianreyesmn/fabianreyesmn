@@ -7,15 +7,15 @@
 
 ### 🚀 Proyectos destacados | Featured Projects
 
-- 🧠 [PyGFrame - Compilador con IDE](https://github.com/fabianreyesmn/compilador-ide)  
+- 🧠 [PyGFrame - Compilador con IDE](https://github.com/fabianreyesmn/pygframe)  
   IDE gráfico con visualización de AST, análisis léxico y sintáctico en Python (Tkinter).  
   Graphical compiler IDE with lexical & syntactic analysis (Tkinter-based).
 
-- 🍲 [Cook and Rate](https://github.com/fabianreyesmn/cooknrate-back)  
+- 🍲 [Cook and Rate](https://github.com/fabianreyesmn/cookandrate)  
   Red social culinaria con backend en Node.js y cliente móvil/web.  
   Culinary social network with Node.js backend and Android/web client.
 
-- 🌍 [Earthly](https://github.com/fabianreyesmn/app-educativa-ninos-android)  
+- 🌍 [Earthly](https://github.com/fabianreyesmn/earthly)  
   App Android interactiva con geografía, biomas, banderas y brújula.  
   Interactive Android app teaching geography and biomes to children.
 
